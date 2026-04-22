@@ -6,7 +6,7 @@ body {
 header {
     width: 100vw;
     height: 100vh;
-    background: url(header_bg.webp);
+    background: url(footer_bg.png);
     background-size: cover;
     display: flex;
 }
@@ -116,9 +116,3 @@ footer {
     color: white;
 }
 
-.my_photo {
-    width: 200px;     
-    height: auto;
-    margin-top: 20px;  
-    border-radius: 10px; 
-}
